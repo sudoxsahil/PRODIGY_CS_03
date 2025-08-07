@@ -19,10 +19,8 @@ The goal of this project is to evaluate password strength using both **regex che
 
 - Python
 - zxcvbn (Dropbox)
-- re (Regular Expressions)
-- John the Ripper (for demo purposes)
+- regex (Regular Expressions)
 
----
 
 ## 📌 How to Run
 
